@@ -1,0 +1,16 @@
+
+{
+  "name": "selenium-wev-driven",
+  "version": "1.0.0",
+  "description": "this is selenium basic project",
+  "license": "ISC",
+  "author": "latifur",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  }
+}
